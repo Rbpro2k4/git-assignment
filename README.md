@@ -1,1 +1,1 @@
-# Day1
+# inmind session 1 assignment
